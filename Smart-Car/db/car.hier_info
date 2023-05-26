@@ -1,0 +1,46 @@
+|car
+lane => segmenta.DATAA
+lane => process_0.IN0
+obstacle => motor1.DATAA
+obstacle => motor2.DATAA
+obstacle => segmenta.OUTPUTSELECT
+obstacle => process_0.IN1
+motor1 << motor1.DB_MAX_OUTPUT_PORT_TYPE
+motor2 << motor2.DB_MAX_OUTPUT_PORT_TYPE
+segmenta[7] << segmenta.DB_MAX_OUTPUT_PORT_TYPE
+segmenta[6] << <VCC>
+segmenta[5] << segmenta.DB_MAX_OUTPUT_PORT_TYPE
+segmenta[4] << segmenta.DB_MAX_OUTPUT_PORT_TYPE
+segmenta[3] << segmenta.DB_MAX_OUTPUT_PORT_TYPE
+segmenta[2] << segmenta.DB_MAX_OUTPUT_PORT_TYPE
+segmenta[1] << segmenta.DB_MAX_OUTPUT_PORT_TYPE
+segmentl[7] << <VCC>
+segmentl[6] << segmentl.DB_MAX_OUTPUT_PORT_TYPE
+segmentl[5] << segmentl.DB_MAX_OUTPUT_PORT_TYPE
+segmentl[4] << segmentl.DB_MAX_OUTPUT_PORT_TYPE
+segmentl[3] << <VCC>
+segmentl[2] << <VCC>
+segmentl[1] << <VCC>
+segmente[7] << segmente.DB_MAX_OUTPUT_PORT_TYPE
+segmente[6] << segmente.DB_MAX_OUTPUT_PORT_TYPE
+segmente[5] << segmente.DB_MAX_OUTPUT_PORT_TYPE
+segmente[4] << segmente.DB_MAX_OUTPUT_PORT_TYPE
+segmente[3] << <VCC>
+segmente[2] << <VCC>
+segmente[1] << segmente.DB_MAX_OUTPUT_PORT_TYPE
+segmentr[7] << segmentr.DB_MAX_OUTPUT_PORT_TYPE
+segmentr[6] << <VCC>
+segmentr[5] << segmentr.DB_MAX_OUTPUT_PORT_TYPE
+segmentr[4] << <VCC>
+segmentr[3] << <VCC>
+segmentr[2] << <VCC>
+segmentr[1] << <VCC>
+segmentt[7] << segmentt.DB_MAX_OUTPUT_PORT_TYPE
+segmentt[6] << segmentt.DB_MAX_OUTPUT_PORT_TYPE
+segmentt[5] << segmentt.DB_MAX_OUTPUT_PORT_TYPE
+segmentt[4] << segmentt.DB_MAX_OUTPUT_PORT_TYPE
+segmentt[3] << <VCC>
+segmentt[2] << <VCC>
+segmentt[1] << <VCC>
+
+

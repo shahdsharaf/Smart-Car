@@ -1,0 +1,105 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "motor1",
+					"strict" : false
+				},
+				{
+					"name" : "motor2",
+					"strict" : false
+				},
+				{
+					"name" : "segmenta[7]",
+					"strict" : false
+				},
+				{
+					"name" : "segmenta[5]",
+					"strict" : false
+				},
+				{
+					"name" : "segmenta[4]",
+					"strict" : false
+				},
+				{
+					"name" : "segmenta[3]",
+					"strict" : false
+				},
+				{
+					"name" : "segmenta[2]",
+					"strict" : false
+				},
+				{
+					"name" : "segmenta[1]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentl[6]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentl[5]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentl[4]",
+					"strict" : false
+				},
+				{
+					"name" : "segmente[7]",
+					"strict" : false
+				},
+				{
+					"name" : "segmente[6]",
+					"strict" : false
+				},
+				{
+					"name" : "segmente[5]",
+					"strict" : false
+				},
+				{
+					"name" : "segmente[4]",
+					"strict" : false
+				},
+				{
+					"name" : "segmente[1]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentr[7]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentr[5]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentt[7]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentt[6]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentt[5]",
+					"strict" : false
+				},
+				{
+					"name" : "segmentt[4]",
+					"strict" : false
+				},
+				{
+					"name" : "obstacle",
+					"strict" : false
+				},
+				{
+					"name" : "lane",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
